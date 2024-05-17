@@ -2,6 +2,7 @@
         display: flex;
         width: 100%;
         align-items: center;
+        text-align: center;
     }
     table {
         margin: 0;
@@ -16,7 +17,7 @@
         box-sizing: border-box;
         text-align: left;
         padding: 10px;
-        border-bottom: 1px solid #ddd;
+        border-bottom: 1px solid #4e75a1;
     }
     table td {
         background-color: #b0c5ff;
